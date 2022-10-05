@@ -9,3 +9,7 @@ These are now the real TASKs
 3-listfiles -> is a script that displays current directory contents in a long format
 
 4-listmorefiles -> is a script that displays current directory contents, including hidden files (starting with .). Use the long format.
+
+5-listfilesdigitonly -> is a script file that displays current directory contents in
+Long format, with user and group IDs displayed numerically, and And hidden files (starting with .)
+
